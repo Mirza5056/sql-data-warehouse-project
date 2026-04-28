@@ -1,6 +1,9 @@
 # sql-data-warehouse-project
 In this project i have clean real world data and using **medallion architecture** i filtered the data from bronze to silver to gold and ready to use in <sub>power bi</sub> dashboards.
 
+
+![Power Dashboard](./images/power-bi.png.png)
+
 # In this project we are using **SQL Management Studio** **Github** **SQL**
 ## First we folder datasets inside that erm and crp data which not clean first we have to clean it
 1.  CREATE DATABASE
